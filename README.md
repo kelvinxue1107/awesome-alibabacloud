@@ -9,8 +9,7 @@ A curated list of awesome Alibaba cloud resources, open source repos, guides, bl
 
 ## Cloud Servers
 
-## * ECS (Elastic Compute Service)
-
+* ECS (Elastic Compute Service)
 * EBM (ECS Bare Metal Instance)
 * SAS (Simple Application Server)
 * Elasti GPU Service
@@ -41,3 +40,30 @@ A curated list of awesome Alibaba cloud resources, open source repos, guides, bl
 * ROS (Resource Orchestration Service)
 * OOS (Operation Orchestration Service)
 * Auto Scaling
+
+# Storage - Alibaba Cloud Storage
+
+## Essential Storage Service
+
+* EBS
+* NAS
+* Tablestore
+* OSS
+* CPFS
+* SCU
+
+## Storage Data Service
+
+* Simple Log Service (SLS)
+* Cloud Backup
+* Drive and Photo Service
+
+## Data Transport and Tools
+
+* Data Transport
+* Cloud Storage Gateway
+
+## Hybrid Cloud Storage
+
+* Hybrid Cloud Storage
+* Hybrid Cloud Distributed Storage (HCDS)
