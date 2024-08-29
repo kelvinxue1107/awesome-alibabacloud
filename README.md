@@ -67,3 +67,68 @@ A curated list of awesome Alibaba cloud resources, open source repos, guides, bl
 
 * Hybrid Cloud Storage
 * Hybrid Cloud Distributed Storage (HCDS)
+
+# Networking and CDN Services
+
+## Cloud Network
+
+* Virtual Private Cloud
+* NAT Gateway
+* Server Load Balancer
+* Cloud Data Transfer
+* Elastic IP address
+* Private Link
+* Network Inteligence Services
+* Alibaba Cloud PrivateZone
+* Global Traffic Manager
+
+## Cross Region Network
+
+* Cloud Enterprise Network
+* Global Accelerator
+* Transit Router
+
+## CDN
+
+* CDN
+* DCDN
+
+## Hybrid Cloud Network
+
+* Express Connect
+* Smart Access Gateway
+* VPN Gateway
+
+# Security
+
+## Cloud Security
+
+* Anti-DDoS
+* Bastionhost
+* Cloud Firewall
+* Security Center
+* Web Application Firewall
+
+## Data Security
+
+* Certificate Management Service
+* Cloud Hardware Security Module (HSM)
+* Key Management Service
+* Sensitive Data Discovery and Protection
+
+## Identity Security
+
+* Identity as a Service (IDaaS)
+* Resource Access Management (RAM)
+
+## Business Security
+
+* ID Verification
+* Fraud Detection
+* Content Moderation
+* CAPTCHA
+
+## Security Service
+
+* Managed Security Service (MSS)
+* Penetration Test
