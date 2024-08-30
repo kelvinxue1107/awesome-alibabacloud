@@ -9,7 +9,7 @@ A curated list of awesome Alibaba cloud resources, open source repos, guides, bl
 
 ## Cloud Servers
 
-* ECS (Elastic Compute Service) [https://img.shields.io/badge/any_text-you_like-blue](https://https://img.shields.io/badge/any_text-you_like-blue)
+* ECS (Elastic Compute Service)
 * EBM (ECS Bare Metal Instance)
 * SAS (Simple Application Server)
 * Elasti GPU Service
