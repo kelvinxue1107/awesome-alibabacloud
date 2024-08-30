@@ -210,3 +210,26 @@ A curated list of awesome Alibaba cloud resources, open source repos, guides, bl
 * Database Backup (DBS)
 * Data management
 * Database Autonomy Service
+
+# Analytics Computing
+
+
+# Media Services
+
+
+# Enterprise Services and Cloud Communication
+
+
+# Internet of Things
+
+
+# Serverless
+
+
+# Developer Tools
+
+
+# Migration and O&M Management
+
+
+# Apsara Stack
