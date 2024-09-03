@@ -1,21 +1,14 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <br/>
 
-
 <b r/>
-
-<p align="center">
-  <img src="https://aliyunsdk-pages.alicdn.com/icons/AlibabaCloud.svg">
-</p>
-<br/>
-A curated list of awesome Alibaba cloud resources, open source repos, guides, blogs, and other resources.
 
 # Cloud Computing Services
 
 ## Cloud Servers
 
-* ECS (Elastic Compute Service) [https://img.shields.io/badge/any_text-you_like-blue](https://https://img.shields.io/badge/any_text-you_like-blue)
-* EBM (ECS Bare Metal Instance)
+* ECS (Elastic Compute Service)                                                               | ![Static Badge](https://img.shields.io/badge/Azure-VM-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-ECS-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ComputeEngine-skyblue)
+* EBM (ECS Bare Metal Instance)                                                             |
 * SAS (Simple Application Server)
 * Elasti GPU Service
 * FPGA as a Service (FaaS)
@@ -31,9 +24,9 @@ A curated list of awesome Alibaba cloud resources, open source repos, guides, bl
 ## Containers
 
 * ECI (Elastic Container Instance)
-* ACK (Container Service for K8s)
+* ACK (Container Service for K8s)                                                                             | ![Static Badge](https://img.shields.io/badge/Azure-AKS-blue) | ![Static Badge](https://img.shields.io/badge/AWS-EKS-orange) | ![Static Badge](https://img.shields.io/badge/GCP-GKE-skyblue)
 * ASM (Service Mesh)
-* ACR (Container Registry)
+* ACR (Container Registry)                                                                     | ![Static Badge](https://img.shields.io/badge/Azure-ACR-blue) | ![Static Badge](https://img.shields.io/badge/AWS-ECR-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ContainerRegistry-skyblue)
 
 ## Serverless
 
@@ -232,7 +225,6 @@ A curated list of awesome Alibaba cloud resources, open source repos, guides, bl
 
 ## Data Development and Services
 
-
 * DataHub
 * Data integration
 * Dataphin
@@ -241,7 +233,6 @@ A curated list of awesome Alibaba cloud resources, open source repos, guides, bl
 
 ## Data Application and Visualization
 
-
 * DataV
 * Quick BI
 
@@ -249,18 +240,15 @@ A curated list of awesome Alibaba cloud resources, open source repos, guides, bl
 
 ## Media Services
 
-
 * ApsaraVideo Live
 * Real-Time Streaming
 * ApsaraVieo Real-time Communication
 * AparaVideo VOD
 * ApsaraVideo Media Processing (MPS)
 
-
 # Enterprise Services and Cloud Communication
 
 ## Enterprise Cloud Services
-
 
 * CloudQuotation
 * Energy Expert
@@ -293,13 +281,11 @@ A curated list of awesome Alibaba cloud resources, open source repos, guides, bl
 
 * Blockchina as a Service (BaaS)
 
-
 # Internet of Things
 
 * Cloud Display
 * Iot Edge
 * IoT Platform
-
 
 # Serverless
 
