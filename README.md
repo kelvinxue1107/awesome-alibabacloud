@@ -1,4 +1,9 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <br/>
+
+
+<b r/>
+
 <p align="center">
   <img src="https://aliyunsdk-pages.alicdn.com/icons/AlibabaCloud.svg">
 </p>
@@ -9,7 +14,7 @@ A curated list of awesome Alibaba cloud resources, open source repos, guides, bl
 
 ## Cloud Servers
 
-* ECS (Elastic Compute Service)
+* ECS (Elastic Compute Service) [https://img.shields.io/badge/any_text-you_like-blue](https://https://img.shields.io/badge/any_text-you_like-blue)
 * EBM (ECS Bare Metal Instance)
 * SAS (Simple Application Server)
 * Elasti GPU Service
@@ -213,23 +218,43 @@ A curated list of awesome Alibaba cloud resources, open source repos, guides, bl
 
 # Analytics Computing
 
+## Data Computing and Analytics
+
+* Elasticsearch
+* Hologres
+* MaxCompute
+* Realtime Compute for Apache Flink
+
+## Data Lakes
+
+* Data Lake Formation
+* E-MapReduce
+
+## Data Development and Services
+
+
+* DataHub
+* Data integration
+* Dataphin
+* DataWorks
+* Optimization Solver
+
+## Data Application and Visualization
+
+
+* DataV
+* Quick BI
 
 # Media Services
 
-
 # Enterprise Services and Cloud Communication
-
 
 # Internet of Things
 
-
 # Serverless
-
 
 # Developer Tools
 
-
 # Migration and O&M Management
-
 
 # Apsara Stack
