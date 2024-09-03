@@ -247,14 +247,124 @@ A curated list of awesome Alibaba cloud resources, open source repos, guides, bl
 
 # Media Services
 
+## Media Services
+
+
+* ApsaraVideo Live
+* Real-Time Streaming
+* ApsaraVieo Real-time Communication
+* AparaVideo VOD
+* ApsaraVideo Media Processing (MPS)
+
+
 # Enterprise Services and Cloud Communication
+
+## Enterprise Cloud Services
+
+
+* CloudQuotation
+* Energy Expert
+* Robitic Process Automation (RPA)
+* SOFAStack™
+* ZOLOZ Real ID
+* ZOLOZ SMART AML
+
+## Enterprise Foundation Services
+
+* Alibaba Cloud DNS (DNS)
+* Domain Names
+* GoChina ICP Filing Assistant
+* WHOIS
+
+## Enterprise Collaboration
+
+* Alibaba Mail
+* Direct Mail
+* YiDA
+
+## Cloud Communication
+
+* Chat App Message Service
+* Phone Number Verification Service
+* Short Message Service (SMS)
+* Voice Service (VS)
+
+## Blockchain Services
+
+* Blockchina as a Service (BaaS)
+
 
 # Internet of Things
 
+* Cloud Display
+* Iot Edge
+* IoT Platform
+
+
 # Serverless
+
+## Application Integration
+
+* CloudFlow
+* EventBridge
+* Simple Message Queue (MNS)
+
+## Computing
+
+* Function Compute
+* Serverless App Engine
+* Serverless Kubernetes Service
 
 # Developer Tools
 
+## API and SDK
+
+* Cloud Shell
+* OpenAPI Explorer
+* OpenAPI Portal
+* Resource Orchestration Serivice (ROS)
+* SDK Center
+
+## Apsara DevOps
+
+* Alibaba Cloud DevOps Pipeline (Flow)
+
+## Development and OM
+
+* API Gateway
+* EMAS HTTPDNS
+* EMAS Mobile Testing
+* EMAS Superapp
+* mPaaS
+
 # Migration and O&M Management
 
+## O&M and Monitoring
+
+* Application Real-Time Monitoring Service (ARMS)
+* CloudMonitor
+* CloudOps Orchestration Service
+* Intelligent Advisor
+* Managed Service for OpenTelemetry
+* Simple Log Service (SLS)
+
+## Cloud Management
+
+* ActionTrail
+* Cloud Architect Design Tools(CADT)
+* Cloud Config
+* Cloud Governance Center (CGC)
+* Quota Center
+* Resource Access Management (RAM)
+* Resource Management
+
+## Backup and Migration
+
+* Cloud Backup
+* Cloud Migration Hub (CMH)
+* Database Backup (DBS)
+* Data Transmission Service
+
 # Apsara Stack
+
+* Apsara Stack
