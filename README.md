@@ -9,8 +9,8 @@
 
 # Indexing
 
-* [Cloud Computing Services](#cloud-computing-service)
-* [Storage](#storage-alibaba-cloud-storage)
+* [Cloud Computing Services](#cloud-computing-services)
+* [Storage](#alibaba-cloud-storage)
 * [Networking](#networking-and-cdn-services)
 
 # Cloud Computing Services
@@ -49,7 +49,7 @@
 * OOS (Operation Orchestration Service)
 * Auto Scaling
 
-# Storage - Alibaba Cloud Storage
+# Alibaba Cloud Storage
 
 ## Essential Storage Service
 
@@ -364,3 +364,4 @@
 # Apsara Stack
 
 * Apsara Stack
+
