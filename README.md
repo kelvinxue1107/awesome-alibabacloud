@@ -1,7 +1,12 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <br/>
-
 <b r/>
+
+<p align="center">
+  <img src="https://aliyunsdk-pages.alicdn.com/icons/AlibabaCloud.svg">
+</p>
+<br/>
+
 
 # Cloud Computing Services
 
