@@ -3,18 +3,12 @@
 
 <b r/>
 
-# Indexing
-
-* [Cloud Computing Services] (#cloud-computing-services)
-
 # Cloud Computing Services
 
 ## Cloud Servers
 
-### ECS
-
-* ECS (Elastic Compute Service)                                                               | ![Static Badge](https://img.shields.io/badge/Azure-VM-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ComputeEngine-skyblue)
-* EBM (ECS Bare Metal Instance)                                                             | `
+* ECS (Elastic Compute Service)                                                               | ![Static Badge](https://img.shields.io/badge/Azure-VM-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-ECS-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ComputeEngine-skyblue)
+* EBM (ECS Bare Metal Instance)                                                             |
 * SAS (Simple Application Server)
 * Elasti GPU Service
 * FPGA as a Service (FaaS)
@@ -29,9 +23,9 @@
 
 ## Containers
 
-* ECI (Elastic Container Instance)                  |. | ![Static Badge](https://img.shields.io/badge/AWS-Fargate-orange) |
+* ECI (Elastic Container Instance)
 * ACK (Container Service for K8s)                                                                             | ![Static Badge](https://img.shields.io/badge/Azure-AKS-blue) | ![Static Badge](https://img.shields.io/badge/AWS-EKS-orange) | ![Static Badge](https://img.shields.io/badge/GCP-GKE-skyblue)
-* ASM (Service Mesh)                                    |. | ![Static Badge](https://img.shields.io/badge/AWS-App%20Mesh-orange) |
+* ASM (Service Mesh)
 * ACR (Container Registry)                                                                     | ![Static Badge](https://img.shields.io/badge/Azure-ACR-blue) | ![Static Badge](https://img.shields.io/badge/AWS-ECR-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ContainerRegistry-skyblue)
 
 ## Serverless
@@ -52,7 +46,7 @@
 * EBS
 * NAS
 * Tablestore
-* OSS                                 | ![Static Badge](https://img.shields.io/badge/Azure-Blob%20Storage-blue) | ![Static Badge](https://img.shields.io/badge/AWS-S3-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud%20Storage%20Buckets-skyblue)
+* OSS
 * CPFS
 * SCU
 
