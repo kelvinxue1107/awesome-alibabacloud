@@ -114,6 +114,10 @@
 
 ### Data Warehouse
 
+* [AnalyticDB for MySQL](https://www.alibabacloud.com/products/analyticdb-for-mysql)
+* [AnalyticDB for PostgreSQL](https://www.alibabacloud.com/product/hybriddb-postgresql)
+*
+
 ### Big data platform
 
 ### Business analytics
@@ -125,6 +129,8 @@
 ### Workflow orchestration
 
 ### Data lake creation
+
+* [Data Lake Analytics](https://www.alibabacloud.com/product/data-lake-analytics)
 
 ### Managed search
 
