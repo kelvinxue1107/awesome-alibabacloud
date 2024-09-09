@@ -9,7 +9,7 @@
 
 # Product Indexing
 
-* [Cloud Computing Services](#cloud-computing-services)
+* [Compute](#cloud-computing-services)
 * [Storage](#alibaba-cloud-storage)
 * [Networking](#networking-and-cdn-services)
 * [Security](#Security)
@@ -23,6 +23,101 @@
 * [Developer Tools](#Developer-Tools)
 
 # Cloud Computing Services
+
+## Compute
+
+### Virtual Machine
+
+* ECS (Elastic Compute Service)                                                               | ![Static Badge](https://img.shields.io/badge/Azure-VM-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ComputeEngine-skyblue)
+*
+
+### Spot virtual machine
+
+### Autoscaling
+
+### Serverless Computing
+
+* Function Compute 2.0
+
+### Platform as a service
+
+### Batch scheduling
+
+### Isolated servers
+
+### On-premise/Edge
+
+### On-premise/Edge devices
+
+### Quantum Computing
+
+## Storage
+
+### Object storage
+
+* OSS
+
+### Archive storage
+
+### File storage
+
+* File Storage NAS
+
+### Block storage
+
+* [Elastic Block Storage (EBS)](https://www.alibabacloud.com/product/disk)
+
+### Hybrid storage
+
+* Hybrid Cloud Storage
+* Cloud Storage Gateway
+
+### Edge/offline storage
+
+* *TBD*
+
+### Backup
+
+* HBR
+
+## Database
+
+### Relational DB Management
+
+### NoSQL
+
+#### Key-Value
+
+#### Document
+
+#### Column Store
+
+#### Graph
+
+### Caching
+
+### Time Series DB
+
+### Blockchain
+
+## Networking & Content Delivery
+
+### Content delivery network
+
+### Application Programming Interface Management
+
+### Domain Name System
+
+### Load balancing
+
+## Containers
+
+### Managed containers
+
+### Container registration
+
+
+
 
 ## Cloud Servers
 
