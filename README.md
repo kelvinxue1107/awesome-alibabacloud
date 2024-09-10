@@ -28,13 +28,15 @@
 
 ### Virtual Machine
 
-* [Elastic Compute Service (ECS)](https://www.alibabacloud.com/product/ecs)                                                              | ![Static Badge](https://img.shields.io/badge/Azure-VM-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ComputeEngine-skyblue)
-* [Elastic GPU Service](https://www.alibabacloud.com/product/heterogeneous_computing)
-* [ECS Bare Metal Instance](https://www.alibabacloud.com/product/ebm)
+* ECS (Elastic Compute Service)                                                               | ![Static Badge](https://img.shields.io/badge/Azure-VM-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ComputeEngine-skyblue)
+*
 
 ### Spot virtual machine
 
 ### Autoscaling
+
+* [Auto Scaling](https://www.alibabacloud.com/product/auto-scaling?spm=a2c65.11461447.0.0.312326bd2BIksO)
+*
 
 ### Serverless Computing
 
@@ -46,18 +48,9 @@
 
 ### Isolated servers
 
-* [Dedicated Host](https://www.alibabacloud.com/product/dedicated-host)
-*
-
 ### On-premise/Edge
 
-* [Edge Node Service (ENS)](https://www.alibabacloud.com/product/edge-node-service)
-*
-
 ### On-premise/Edge devices
-
-* [CloudBox](https://www.alibabacloud.com/product/cloudbox)
-*
 
 ### Quantum Computing
 
@@ -65,13 +58,16 @@
 
 ### Object storage
 
-* OSS
+* [Object Storage Service (OSS)](https://www.alibabacloud.com/product/oss)
+*
 
 ### Archive storage
 
+* [Object Storage Service (OSS)](https://www.alibabacloud.com/product/oss)
+
 ### File storage
 
-* File Storage NAS
+* [File Storage NAS](https://www.alibabacloud.com/product/nas)
 
 ### Block storage
 
@@ -79,16 +75,16 @@
 
 ### Hybrid storage
 
-* Hybrid Cloud Storage
-* Cloud Storage Gateway
+* [Hybrid Cloud Storage](https://www.alibabacloud.com/product/storage-array)
+* [Cloud Storage Gateway](https://www.alibabacloud.com/product/cloud-storage-gateway)
 
 ### Edge/offline storage
 
-* *TBD*
+* [Data Transport](https://www.alibabacloud.com/product/data-transport)
 
 ### Backup
 
-* HBR
+* [Hybrid Backup Recovery (HBR)](https://www.alibabacloud.com/product/hybrid-backup-recovery)
 
 ## Database
 
@@ -98,63 +94,57 @@
 
 #### Key-Value
 
+* [ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)
+
 #### Document
+
+* [ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)
 
 #### Column Store
 
+* [ApsaraDB for Cassandra](https://www.alibabacloud.com/product/cassandra)
+
 #### Graph
+
+* [Graph Database](]https://cn.aliyun.com/product/gdb?from_alibabacloud=&from_alibabacloud=)
+*
 
 ### Caching
 
+* [ApsaraDB for Redis](https://www.alibabacloud.com/product/apsaradb-for-redis)
+
 ### Time Series DB
 
+* [Time Series Database (TSDB)](https://www.alibabacloud.com/product/hitsdb)
+
 ### Blockchain
-
-## Analytics
-
-### Data Warehouse
-
-* [AnalyticDB for MySQL](https://www.alibabacloud.com/products/analyticdb-for-mysql)
-* [AnalyticDB for PostgreSQL](https://www.alibabacloud.com/product/hybriddb-postgresql)
-*
-
-### Big data platform
-
-### Business analytics
-
-### Real-time analytics
-
-### ETL
-
-### Workflow orchestration
-
-### Data lake creation
-
-* [Data Lake Analytics](https://www.alibabacloud.com/product/data-lake-analytics)
-
-### Managed search
-
-### Data Catalog
 
 ## Networking & Content Delivery
 
 ### Content delivery network
 
+* [CDN](https://www.alibabacloud.com/product/cdn)
+
 ### Application Programming Interface Management
 
-### Domain Name System
+* [API Gateway](https://www.alibabacloud.com/product/api-gateway)
+
+### Domain Name System Related
+
+* [Alibaba Cloud DNS](https://www.alibabacloud.com/product/dns)
+* [Domains](https://www.alibabacloud.com/domain?spm=a2c65.11461447.0.0.312326bd2BIksO)
+* [WHOIS](https://www.alibabacloud.com/whois?spm=a2c65.11461447.0.0.312326bd2BIksO)
 
 ### Load balancing
+
+* [Server Load Balancer (SLB)](https://www.alibabacloud.com/product/server-load-balancer)
+*
 
 ## Containers
 
 ### Managed containers
 
 ### Container registration
-
-
-
-=====================unused==============================================
 
 ## Cloud Servers
 
