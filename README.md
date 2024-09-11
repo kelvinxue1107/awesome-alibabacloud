@@ -28,15 +28,13 @@
 
 ### Virtual Machine
 
-* ECS (Elastic Compute Service)                                                               | ![Static Badge](https://img.shields.io/badge/Azure-VM-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ComputeEngine-skyblue)
-*
+* [Elastic Compute Service (ECS)](https://www.alibabacloud.com/product/ecs)                                                             | ![Static Badge](https://img.shields.io/badge/Azure-VM-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ComputeEngine-skyblue)
 
 ### Spot virtual machine
 
 ### Autoscaling
 
 * [Auto Scaling](https://www.alibabacloud.com/product/auto-scaling?spm=a2c65.11461447.0.0.312326bd2BIksO)
-*
 
 ### Serverless Computing
 
@@ -59,7 +57,6 @@
 ### Object storage
 
 * [Object Storage Service (OSS)](https://www.alibabacloud.com/product/oss)
-*
 
 ### Archive storage
 
@@ -100,19 +97,19 @@
 
 ### NoSQL
 
-#### Key-Value
+#### *Key-Value*
 
 * [ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)
 
-#### Document
+#### *Document*
 
 * [ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)
 
-#### Column Store
+#### *Column Store*
 
 * [ApsaraDB for Cassandra](https://www.alibabacloud.com/product/cassandra)
 
-#### Graph
+#### *Graph*
 
 * [Graph Database](]https://cn.aliyun.com/product/gdb?from_alibabacloud=&from_alibabacloud=)
 
@@ -145,7 +142,6 @@
 ### Load balancing
 
 * [Server Load Balancer (SLB)](https://www.alibabacloud.com/product/server-load-balancer)
-*
 
 ## Containers
 
