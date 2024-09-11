@@ -42,15 +42,28 @@
 
 ### Platform as a service
 
+* [Enterprise Distributed Application Service (EDAS)](https://www.alibabacloud.com/product/edas)
+
 ### Batch scheduling
 
+* [Batch Compute](https://www.alibabacloud.com/product/batch-compute)
+
 ### Isolated servers
+
+* [Dedicated Host (DDH)](https://www.alibabacloud.com/product/dedicated-host)
 
 ### On-premise/Edge
 
 ### On-premise/Edge devices
 
 ### Quantum Computing
+
+### HPC
+
+* [Super Computing Cluster (SCC)](https://www.alibabacloud.com/product/scc?spm=a3c0i.21202589.9413186770.10.2686c1190CNRWo)
+* [Elastic High Performance Computing (E-HPC)](https://www.alibabacloud.com/product/ehpc?spm=a3c0i.21202589.9413186770.11.2686c1190CNRWo)
+*
+
 
 ## Storage
 
@@ -122,6 +135,77 @@
 * [Time Series Database (TSDB)](https://www.alibabacloud.com/product/hitsdb)
 
 ### Blockchain
+
+
+## Analytics
+
+### Data warehouse
+
+* [Hologres](https://www.alibabacloud.com/product/hologres)
+* [MaxCompute](https://www.alibabacloud.com/product/maxcompute)
+
+### Big data platform
+
+* [E-MapReduce](https://www.alibabacloud.com/product/emapreduce)
+
+### Business analytics
+
+* [Quick BI](https://www.alibabacloud.com/product/quickbi)
+
+### Real-time analytics
+
+* [Realtime Compute for Apache Flink](https://www.alibabacloud.com/product/realtime-compute)
+
+### ETL
+
+* [Data Integration](https://www.alibabacloud.com/product/data-integration)
+
+### Workflow orchestration
+
+* [Dataphin](https://www.alibabacloud.com/product/dataphin)
+* [Dataworks](https://www.alibabacloud.com/product/ide)
+
+### Data lake creation
+
+* [Data Lake Analytics](https://www.alibabacloud.com/product/data-lake-analytics)
+
+### Managed search
+
+* [Alibaba Cloud Elasticsearch](https://www.alibabacloud.com/product/elasticsearch)
+
+### Data Catalog
+
+
+## ML and AI
+
+### Machine Learning
+
+* [Alibaba Cloud Model Studio](https://www.alibabacloud.com/product/modelstudio?spm=a3c0i.11270126.5942891490.128.63005f93cr7YdL)
+*
+
+### Jupyter notebooks
+
+### Data science/ ML VM
+
+### Auto ML
+
+### Natural Language Processing AI
+
+### Document capture
+
+### Computer Vision
+
+### Speech to text
+
+### Text to speech
+
+### Translation AI
+
+### Video Intelligence
+
+### AI agents
+
+### Human-in-the-loop
 
 ## Networking & Content Delivery
 
