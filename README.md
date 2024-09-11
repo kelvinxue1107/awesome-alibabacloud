@@ -1,4 +1,3 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <br/>
 <b r/>
 
@@ -6,6 +5,8 @@
   <img src="https://aliyunsdk-pages.alicdn.com/icons/AlibabaCloud.svg">
 </p>
 <br/>
+
+![Awesome](https://awesome.re/badge.svg)
 
 # Product Indexing
 
@@ -63,7 +64,6 @@
 * [Super Computing Cluster (SCC)](https://www.alibabacloud.com/product/scc?spm=a3c0i.21202589.9413186770.10.2686c1190CNRWo)
 * [Elastic High Performance Computing (E-HPC)](https://www.alibabacloud.com/product/ehpc?spm=a3c0i.21202589.9413186770.11.2686c1190CNRWo)
 *
-
 
 ## Storage
 
@@ -136,7 +136,6 @@
 
 ### Blockchain
 
-
 ## Analytics
 
 ### Data warehouse
@@ -174,7 +173,6 @@
 * [Alibaba Cloud Elasticsearch](https://www.alibabacloud.com/product/elasticsearch)
 
 ### Data Catalog
-
 
 ## ML and AI
 
