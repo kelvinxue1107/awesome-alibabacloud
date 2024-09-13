@@ -1,245 +1,269 @@
 <br/>
 <b r/>
 
+# ****Product Indexing****
 
-# **Product Indexing**
+* ****[Compute](#cloud-computing-services)****
+* ****[Storage](#alibaba-cloud-storage)****
+* ****[Networking](#networking-and-cdn-services)****
+* ****[Security](#Security)****
+* ****[AI and ML](#AI-and-ML-services)****
+* ****[Middleware](#Middleware)****
+* ****[Database](#Database)****
+* ****[Analytics Computing](#Analytics-Computing)****
+* ****[Media Services](#Media-Services)****
+* ****[Serverless](#Serverless)****
+* ****[Migration and O&M Management](#Migration-and-O&M-Management)****
+* ****[Developer Tools](#Developer-Tools)****
 
-* **[Compute](#cloud-computing-services)**
-* **[Storage](#alibaba-cloud-storage)**
-* **[Networking](#networking-and-cdn-services)**
-* **[Security](#Security)**
-* **[AI and ML](#AI-and-ML-services)**
-* **[Middleware](#Middleware)**
-* **[Database](#Database)**
-* **[Analytics Computing](#Analytics-Computing)**
-* **[Media Services](#Media-Services)**
-* **[Serverless](#Serverless)**
-* **[Migration and O&M Management](#Migration-and-O&M-Management)**
-* **[Developer Tools](#Developer-Tools)**
+# ****Cloud Computing Services****
 
-# **Cloud Computing Services**
+## ****Compute****
 
-## **Compute**
+### ****Virtual Machine****
 
-### **Virtual Machine**
+* ****[Elastic Compute Service (ECS)](https://www.alibabacloud.com/product/ecs)                                                             | ![Static Badge](https://img.shields.io/badge/Azure-VM-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ComputeEngine-skyblue)****
 
-* **[Elastic Compute Service (ECS)](https://www.alibabacloud.com/product/ecs)                                                             | ![Static Badge](https://img.shields.io/badge/Azure-VM-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ComputeEngine-skyblue)**
+### ****Spot virtual machine****
 
-### **Spot virtual machine**
+### ****Autoscaling****
 
-### **Autoscaling**
+* ****[Auto Scaling](https://www.alibabacloud.com/product/auto-scaling?spm=a2c65.11461447.0.0.312326bd2BIksO)****
 
-* **[Auto Scaling](https://www.alibabacloud.com/product/auto-scaling?spm=a2c65.11461447.0.0.312326bd2BIksO)**
+### ****Serverless Computing****
 
-### **Serverless Computing**
+* ****Function Compute 2.0****
 
-* **Function Compute 2.0**
+### ****Platform as a service****
 
-### **Platform as a service**
+* ****[Enterprise Distributed Application Service (EDAS)](https://www.alibabacloud.com/product/edas)****
 
-* **[Enterprise Distributed Application Service (EDAS)](https://www.alibabacloud.com/product/edas)**
+### ****Batch scheduling****
 
-### **Batch scheduling**
+* ****[Batch Compute](https://www.alibabacloud.com/product/batch-compute)****
 
-* **[Batch Compute](https://www.alibabacloud.com/product/batch-compute)**
+### ****Isolated servers****
 
-### **Isolated servers**
+* ****[Dedicated Host (DDH)](https://www.alibabacloud.com/product/dedicated-host)****
 
-* **[Dedicated Host (DDH)](https://www.alibabacloud.com/product/dedicated-host)**
+### ****On-premise/Edge****
 
-### **On-premise/Edge**
+### ****On-premise/Edge devices****
 
-### **On-premise/Edge devices**
+### ****Quantum Computing****
 
-### **Quantum Computing**
+### ****HPC****
 
-### **HPC**
+* ****[Super Computing Cluster (SCC)](https://www.alibabacloud.com/product/scc?spm=a3c0i.21202589.9413186770.10.2686c1190CNRWo)****
+* ****[Elastic High Performance Computing (E-HPC)](https://www.alibabacloud.com/product/ehpc?spm=a3c0i.21202589.9413186770.11.2686c1190CNRWo)****
 
-* **[Super Computing Cluster (SCC)](https://www.alibabacloud.com/product/scc?spm=a3c0i.21202589.9413186770.10.2686c1190CNRWo)**
-* **[Elastic High Performance Computing (E-HPC)](https://www.alibabacloud.com/product/ehpc?spm=a3c0i.21202589.9413186770.11.2686c1190CNRWo)**
+## ****Storage****
 
-## **Storage**
+### ****Object storage****
 
-### **Object storage**
+* ****[Object Storage Service (OSS)](https://www.alibabacloud.com/product/oss)****
 
-* **[Object Storage Service (OSS)](https://www.alibabacloud.com/product/oss)**
+### ****Archive storage****
 
-### **Archive storage**
+* ****[Object Storage Service (OSS)](https://www.alibabacloud.com/product/oss)****
 
-* **[Object Storage Service (OSS)](https://www.alibabacloud.com/product/oss)**
+### ****File storage****
 
-### **File storage**
+* ****[File Storage NAS](https://www.alibabacloud.com/product/nas)****
 
-* **[File Storage NAS](https://www.alibabacloud.com/product/nas)**
+### ****Block storage****
 
-### **Block storage**
+* ****[Elastic Block Storage (EBS)](https://www.alibabacloud.com/product/disk)****
 
-* **[Elastic Block Storage (EBS)](https://www.alibabacloud.com/product/disk)**
+### ****Hybrid storage****
 
-### **Hybrid storage**
+* ****[Hybrid Cloud Storage](https://www.alibabacloud.com/product/storage-array)****
+* ****[Cloud Storage Gateway](https://www.alibabacloud.com/product/cloud-storage-gateway)****
 
-* **[Hybrid Cloud Storage](https://www.alibabacloud.com/product/storage-array)**
-* **[Cloud Storage Gateway](https://www.alibabacloud.com/product/cloud-storage-gateway)**
+### ****Edge/offline storage****
 
-### **Edge/offline storage**
+* ****[Data Transport](https://www.alibabacloud.com/product/data-transport)****
 
-* **[Data Transport](https://www.alibabacloud.com/product/data-transport)**
+### ****Backup****
 
-### **Backup**
+* ****[Hybrid Backup Recovery (HBR)](https://www.alibabacloud.com/product/hybrid-backup-recovery)****
 
-* **[Hybrid Backup Recovery (HBR)](https://www.alibabacloud.com/product/hybrid-backup-recovery)**
+## ****Database****
 
-## **Database**
+### ****Relational DB Management****
 
-### **Relational DB Management**
+* ****[PolarDB (MySQL/PostgreSQL)](https://www.alibabacloud.com/product/polardb)****
+* ****[ApsaraDB RDS for MySQL](https://www.alibabacloud.com/product/apsaradb-for-rds-mysql)****
+* ****[ApsaraDB RDS for SQL Server](https://www.alibabacloud.com/product/apsaradb-for-rds-sql-server)****
+* ****[ApsaraDB RDS for PostgreSQL](https://www.alibabacloud.com/product/apsaradb-for-rds-postgresql)****
+* ****[ApsaraDB RDS for MariaDB TX](https://www.alibabacloud.com/products/apsaradb-for-rds-mariadb)****
+* ****[Distributed Relational Database Service (DRDS)](https://www.alibabacloud.com/product/drds)****
+* ****[PolarDB (Oracle)](https://www.alibabacloud.com/product/polardb)****
 
-* **[PolarDB (MySQL/PostgreSQL)](https://www.alibabacloud.com/product/polardb)**
-* **[ApsaraDB RDS for MySQL](https://www.alibabacloud.com/product/apsaradb-for-rds-mysql)**
-* **[ApsaraDB RDS for SQL Server](https://www.alibabacloud.com/product/apsaradb-for-rds-sql-server)**
-* **[ApsaraDB RDS for PostgreSQL](https://www.alibabacloud.com/product/apsaradb-for-rds-postgresql)**
-* **[ApsaraDB RDS for MariaDB TX](https://www.alibabacloud.com/products/apsaradb-for-rds-mariadb)**
-* **[Distributed Relational Database Service (DRDS)](https://www.alibabacloud.com/product/drds)**
-* **[PolarDB (Oracle)](https://www.alibabacloud.com/product/polardb)**
+### ****NoSQL****
 
-### **NoSQL**
+* #### *****Key-Value*****
 
-* #### ***Key-Value***
+  * ****[ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)****
+* #### *****Document*****
 
-  * **[ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)**
-* #### ***Document***
+  * ****[ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)****
+* #### *****Column Store*****
 
-  * **[ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)**
-* #### ***Column Store***
+  * ****[ApsaraDB for Cassandra](https://www.alibabacloud.com/product/cassandra)****
+* #### *****Graph*****
 
-  * **[ApsaraDB for Cassandra](https://www.alibabacloud.com/product/cassandra)**
-* #### ***Graph***
+  * ****[Graph Database](]https://cn.aliyun.com/product/gdb?from_alibabacloud=&from_alibabacloud=)****
 
-  * **[Graph Database](]https://cn.aliyun.com/product/gdb?from_alibabacloud=&from_alibabacloud=)**
+### ****Caching****
 
-### **Caching**
+* ****[ApsaraDB for Redis](https://www.alibabacloud.com/product/apsaradb-for-redis)****
 
-* **[ApsaraDB for Redis](https://www.alibabacloud.com/product/apsaradb-for-redis)**
+### ****Time Series DB****
 
-### **Time Series DB**
+* ****[Time Series Database (TSDB)](https://www.alibabacloud.com/product/hitsdb)****
 
-* **[Time Series Database (TSDB)](https://www.alibabacloud.com/product/hitsdb)**
+### ****Blockchain****
 
-### **Blockchain**
+* **[Blockchain as a Service](https://www.alibabacloud.com/product/baas)**
 
-* [Blockchain as a Service](https://www.alibabacloud.com/product/baas)
+## ****Analytics****
 
-## **Analytics**
+### ****Data warehouse****
 
-### **Data warehouse**
+* ****[Hologres](https://www.alibabacloud.com/product/hologres)****
+* ****[MaxCompute](https://www.alibabacloud.com/product/maxcompute)****
 
-* **[Hologres](https://www.alibabacloud.com/product/hologres)**
-* **[MaxCompute](https://www.alibabacloud.com/product/maxcompute)**
+### ****Big data platform****
 
-### **Big data platform**
+* ****[E-MapReduce](https://www.alibabacloud.com/product/emapreduce)****
 
-* **[E-MapReduce](https://www.alibabacloud.com/product/emapreduce)**
+### ****Business analytics****
 
-### **Business analytics**
+* ****[Quick BI](https://www.alibabacloud.com/product/quickbi)****
 
-* **[Quick BI](https://www.alibabacloud.com/product/quickbi)**
+### ****Real-time analytics****
 
-### **Real-time analytics**
+* ****[Realtime Compute for Apache Flink](https://www.alibabacloud.com/product/realtime-compute)****
 
-* **[Realtime Compute for Apache Flink](https://www.alibabacloud.com/product/realtime-compute)**
+### ****ETL****
 
-### **ETL**
+* ****[Data Integration](https://www.alibabacloud.com/product/data-integration)****
 
-* **[Data Integration](https://www.alibabacloud.com/product/data-integration)**
+### ****Workflow orchestration****
 
-### **Workflow orchestration**
+* ****[Dataphin](https://www.alibabacloud.com/product/dataphin)****
+* ****[Dataworks](https://www.alibabacloud.com/product/ide)****
 
-* **[Dataphin](https://www.alibabacloud.com/product/dataphin)**
-* **[Dataworks](https://www.alibabacloud.com/product/ide)**
+### ****Data lake creation****
 
-### **Data lake creation**
+* ****[Data Lake Analytics](https://www.alibabacloud.com/product/data-lake-analytics)****
 
-* **[Data Lake Analytics](https://www.alibabacloud.com/product/data-lake-analytics)**
+### ****Managed search****
 
-### **Managed search**
+* ****[Alibaba Cloud Elasticsearch](https://www.alibabacloud.com/product/elasticsearch)****
 
-* **[Alibaba Cloud Elasticsearch](https://www.alibabacloud.com/product/elasticsearch)**
+### ****Data Catalog****
 
-### **Data Catalog**
+## ****ML and AI****
 
-## **ML and AI**
+### ****Machine Learning****
 
-### **Machine Learning**
+* ****[Alibaba Cloud Model Studio](https://www.alibabacloud.com/product/modelstudio?spm=a3c0i.11270126.5942891490.128.63005f93cr7YdL)****
 
-* **[Alibaba Cloud Model Studio](https://www.alibabacloud.com/product/modelstudio?spm=a3c0i.11270126.5942891490.128.63005f93cr7YdL)**
+### ****Jupyter notebooks****
 
-### **Jupyter notebooks**
+### ****Data science/ ML VM****
 
-### **Data science/ ML VM**
+### ****Auto ML****
 
-### **Auto ML**
+* **[Platform for AI (PAI)](https://www.alibabacloud.com/product/machine-learning?spm=a3c0i.11270126.5942891490.129.63005f93cr7YdL)**
 
-* [Platform for AI (PAI)](https://www.alibabacloud.com/product/machine-learning?spm=a3c0i.11270126.5942891490.129.63005f93cr7YdL)
+### ****Natural Language Processing AI****
 
-### **Natural Language Processing AI**
+* **[Beebot](https://www.alibabacloud.com/product/bot)**
 
-* [Beebot](https://www.alibabacloud.com/product/bot)
+### ****Recommendation AI****
 
-### **Recommendation AI**
+* **[AIRec](https://www.alibabacloud.com/product/airec)**
 
-* [AIRec](https://www.alibabacloud.com/product/airec)
+### ****Document capture****
 
-### **Document capture**
+### ****Computer Vision****
 
-### **Computer Vision**
+* **[Content Moderation](https://www.alibabacloud.com/product/content-moderation)**
 
-* [Content Moderation](https://www.alibabacloud.com/product/content-moderation)
+### ****Speech to text****
 
-### **Speech to text**
+* **[Intellgent Speech Interaction](https://www.alibabacloud.com/product/intelligent-speech-interaction)**
 
-* [Intellgent Speech Interaction](https://www.alibabacloud.com/product/intelligent-speech-interaction)
+### ****Text to speech****
 
-### **Text to speech**
+* **[Intellgent Speech Interaction](https://www.alibabacloud.com/product/intelligent-speech-interaction)**
 
-* [Intellgent Speech Interaction](https://www.alibabacloud.com/product/intelligent-speech-interaction)
+### ****Translation AI****
 
-### **Translation AI**
+* **[Machine Translation](https://www.alibabacloud.com/product/machine-translation)**
 
-* [Machine Translation](https://www.alibabacloud.com/product/machine-translation)
+### ****Video Intelligence****
 
-### **Video Intelligence**
+### ****AI agents****
 
-### **AI agents**
+### ****Human-in-the-loop****
 
-### **Human-in-the-loop**
+## ****Networking & Content Delivery****
 
-## **Networking & Content Delivery**
+### ****Content delivery network****
 
-### **Content delivery network**
+* ****[CDN](https://www.alibabacloud.com/product/cdn)****
 
-* **[CDN](https://www.alibabacloud.com/product/cdn)**
+### ****Application Programming Interface Management****
 
-### **Application Programming Interface Management**
+* ****[API Gateway](https://www.alibabacloud.com/product/api-gateway)****
 
-* **[API Gateway](https://www.alibabacloud.com/product/api-gateway)**
+### ****Domain Name System Related****
 
-### **Domain Name System Related**
+* ****[Alibaba Cloud DNS](https://www.alibabacloud.com/product/dns)****
+* ****[Domains](https://www.alibabacloud.com/domain?spm=a2c65.11461447.0.0.312326bd2BIksO)****
+* ****[WHOIS](https://www.alibabacloud.com/whois?spm=a2c65.11461447.0.0.312326bd2BIksO)****
 
-* **[Alibaba Cloud DNS](https://www.alibabacloud.com/product/dns)**
-* **[Domains](https://www.alibabacloud.com/domain?spm=a2c65.11461447.0.0.312326bd2BIksO)**
-* **[WHOIS](https://www.alibabacloud.com/whois?spm=a2c65.11461447.0.0.312326bd2BIksO)**
+### ****Load balancing****
 
-### **Load balancing**
+* ****[Server Load Balancer (SLB)](https://www.alibabacloud.com/product/server-load-balancer)****
 
-* **[Server Load Balancer (SLB)](https://www.alibabacloud.com/product/server-load-balancer)**
+## ****Containers****
 
-## **Containers**
+### ****Managed containers****
 
-### **Managed containers**
+* ****[Container Service for Kubernetes (ACK)](https://www.alibabacloud.com/product/kubernetes) | ![Static Badge](https://img.shields.io/badge/Azure-AKS-blue) | ![Static Badge](https://img.shields.io/badge/AWS-EKS-orange) | ![Static Badge](https://img.shields.io/badge/GCP-GKE-skyblue)****
+* ****[Elastic Container Instance (ECI)](https://www.alibabacloud.com/product/elastic-container-instance)              | ![Static Badge](https://img.shields.io/badge/Azure-ACR-blue) | ![Static Badge](https://img.shields.io/badge/AWS-ECR-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ContainerRegistry-skyblue)****
+* ****[Alibaba Cloud Service Mesh (ASM)](https://www.alibabacloud.com/product/servicemesh)****
 
-* **[Container Service for Kubernetes (ACK)](https://www.alibabacloud.com/product/kubernetes) | ![Static Badge](https://img.shields.io/badge/Azure-AKS-blue) | ![Static Badge](https://img.shields.io/badge/AWS-EKS-orange) | ![Static Badge](https://img.shields.io/badge/GCP-GKE-skyblue)**
-* **[Elastic Container Instance (ECI)](https://www.alibabacloud.com/product/elastic-container-instance)              | ![Static Badge](https://img.shields.io/badge/Azure-ACR-blue) | ![Static Badge](https://img.shields.io/badge/AWS-ECR-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ContainerRegistry-skyblue)**
-* **[Alibaba Cloud Service Mesh (ASM)](https://www.alibabacloud.com/product/servicemesh)**
+### ****Container registration****
 
-### **Container registration**
+* ****[Container Registry (ACR)](https://www.alibabacloud.com/product/container-registry).       | ![Static Badge](https://img.shields.io/badge/Azure-ACR-blue) | ![Static Badge](https://img.shields.io/badge/AWS-ECR-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ContainerRegistry-skyblue)****
 
-* **[Container Registry (ACR)](https://www.alibabacloud.com/product/container-registry).       | ![Static Badge](https://img.shields.io/badge/Azure-ACR-blue) | ![Static Badge](https://img.shields.io/badge/AWS-ECR-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ContainerRegistry-skyblue)**
+## **Management and Security**
+
+### **Access management**
+
+* **[Resource Access Management (RAM)](https://www.alibabacloud.com/product/ram)**
+
+### **Activity tracking**
+
+* **[ActionTrail](https://www.alibabacloud.com/product/actiontrail)**
+
+### **Security**
+
+* **[Security Center](https://www.alibabacloud.com/product/security-center)**
+
+### **Monitoring**
+
+* **[Application Real-Time Monitoring Service (ARMS)](https://www.alibabacloud.com/product/arms)**
+* [CloudMonitor](https://www.alibabacloud.com/product/cloud-monitor?spm=a3c0i.11270126.5942891490.181.63005f93cr7YdL)
+
+### Automation
+
+* [CloudOps Orchestration Service](https://www.alibabacloud.com/product/oos?spm=a3c0i.11270126.5942891490.182.63005f93cr7YdL)
+
+### **Cost optimization**
