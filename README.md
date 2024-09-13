@@ -1,5 +1,14 @@
 <br/>
 <b r/>
+<p align="center">
+  <img src="https://aliyunsdk-pages.alicdn.com/icons/AlibabaCloud.svg">
+</p>
+<br/>
+
+![Awesome](https://awesome.re/badge.svg)
+
+*Summarize the Alibaba cloud services as awesome list, also list the other ralevent cloud services from GCP, MSFT and AWS at the end on each row as badge for reference *
+
 
 # ****Product Indexing****
 
