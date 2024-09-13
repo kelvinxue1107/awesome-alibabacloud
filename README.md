@@ -1,11 +1,6 @@
 <br/>
 <b r/>
 
-<p align="center">
-  <img src="https://aliyunsdk-pages.alicdn.com/icons/AlibabaCloud.svg">
-</p>
-<br/>
-
 ![Awesome](https://awesome.re/badge.svg)
 
 # Product Indexing
@@ -63,7 +58,6 @@
 
 * [Super Computing Cluster (SCC)](https://www.alibabacloud.com/product/scc?spm=a3c0i.21202589.9413186770.10.2686c1190CNRWo)
 * [Elastic High Performance Computing (E-HPC)](https://www.alibabacloud.com/product/ehpc?spm=a3c0i.21202589.9413186770.11.2686c1190CNRWo)
-*
 
 ## Storage
 
@@ -110,21 +104,21 @@
 
 ### NoSQL
 
-#### *Key-Value*
+* #### *Key-Value*
 
-* [ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)
+  * [ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)
 
-#### *Document*
+* #### *Document*
 
-* [ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)
+  * [ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)
 
-#### *Column Store*
+* #### *Column Store*
 
-* [ApsaraDB for Cassandra](https://www.alibabacloud.com/product/cassandra)
+  * [ApsaraDB for Cassandra](https://www.alibabacloud.com/product/cassandra)
 
-#### *Graph*
+* #### *Graph*
 
-* [Graph Database](]https://cn.aliyun.com/product/gdb?from_alibabacloud=&from_alibabacloud=)
+  * [Graph Database](]https://cn.aliyun.com/product/gdb?from_alibabacloud=&from_alibabacloud=)
 
 ### Caching
 
@@ -135,6 +129,8 @@
 * [Time Series Database (TSDB)](https://www.alibabacloud.com/product/hitsdb)
 
 ### Blockchain
+
+
 
 ## Analytics
 
