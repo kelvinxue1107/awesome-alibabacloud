@@ -225,7 +225,7 @@
 
 ### ******Application Programming Interface Management******
 
-* ******[API Gateway](https://www.alibabacloud.com/product/api-gateway) | ![Static Badge](https://img.shields.io/badge/Azure-API_Apps,_API_Management-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-API_Gateway_orange) | ![Static Badge](https://img.shields.io/badge/GCP-Apigee_API_Management-skyblue)******
+* ******[API Gateway](https://www.alibabacloud.com/product/api-gateway) | ![Static Badge](https://img.shields.io/badge/Azure-API_Apps,_API_Management-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-API_Gateway-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Apigee_API_Management-skyblue)******
 
 ### ******Domain Name System Related******
 
