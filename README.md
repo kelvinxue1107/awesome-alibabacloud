@@ -205,11 +205,11 @@
 
 ### ******Text to speech******
 
-* ****[Intellgent Speech Interaction](https://www.alibabacloud.com/product/intelligent-speech-interaction)****
+* ****[Intellgent Speech Interaction](https://www.alibabacloud.com/product/intelligent-speech-interaction) | ![Static Badge](https://img.shields.io/badge/Azure-Cognitive_Services_for_Text_to_Speech-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Polly-orange) | ![Static Badge](https://img.shields.io/badge/GCP-TextToSpeech-skyblue)****
 
 ### ******Translation AI******
 
-* ****[Machine Translation](https://www.alibabacloud.com/product/machine-translation)****
+* ****[Machine Translation](https://www.alibabacloud.com/product/machine-translation) | ![Static Badge](https://img.shields.io/badge/Azure-Cognitive_Services_for_Speech_Translation,_Translator-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Translate-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Translation_AI-skyblue)****
 
 ### ******Video Intelligence******
 
@@ -221,21 +221,21 @@
 
 ### ******Content delivery network******
 
-* ******[CDN](https://www.alibabacloud.com/product/cdn)******
+* ******[CDN](https://www.alibabacloud.com/product/cdn) | ![Static Badge](https://img.shields.io/badge/Azure-Content_Delivery_Network-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-CloudFront-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_CDN_and_Media_CDN-skyblue)******
 
 ### ******Application Programming Interface Management******
 
-* ******[API Gateway](https://www.alibabacloud.com/product/api-gateway)******
+* ******[API Gateway](https://www.alibabacloud.com/product/api-gateway) | ![Static Badge](https://img.shields.io/badge/Azure-API_Apps,_API_Management-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-API_Gateway_orange) | ![Static Badge](https://img.shields.io/badge/GCP-Apigee_API_Management-skyblue)******
 
 ### ******Domain Name System Related******
 
-* ******[Alibaba Cloud DNS](https://www.alibabacloud.com/product/dns)******
+* ******[Alibaba Cloud DNS](https://www.alibabacloud.com/product/dns) | ![Static Badge](https://img.shields.io/badge/Azure-DNS-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Route_53-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_DNS-skyblue)******
 * ******[Domains](https://www.alibabacloud.com/domain?spm=a2c65.11461447.0.0.312326bd2BIksO)******
 * ******[WHOIS](https://www.alibabacloud.com/whois?spm=a2c65.11461447.0.0.312326bd2BIksO)******
 
 ### ******Load balancing******
 
-* ******[Server Load Balancer (SLB)](https://www.alibabacloud.com/product/server-load-balancer)******
+* ******[Server Load Balancer (SLB)](https://www.alibabacloud.com/product/server-load-balancer) | ![Static Badge](https://img.shields.io/badge/Azure-Application_Gateway,_Load_Balancer,_Traffic_Manager-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Elastic_Load_Balancing-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Load_Balancing-skyblue)******
 
 ## ******Containers******
 
@@ -253,24 +253,24 @@
 
 ### ****Access management****
 
-* ****[Resource Access Management (RAM)](https://www.alibabacloud.com/product/ram)****
+* ****[Resource Access Management (RAM)](https://www.alibabacloud.com/product/ram) | ![Static Badge](https://img.shields.io/badge/Azure-IAM-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Entra_ID-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Identity-skyblue)****
 
 ### ****Activity tracking****
 
-* ****[ActionTrail](https://www.alibabacloud.com/product/actiontrail)****
+* ****[ActionTrail](https://www.alibabacloud.com/product/actiontrail) | ![Static Badge](https://img.shields.io/badge/Azure-Monitor_Activity_Log-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-CloudTrail-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Access_Transparency_and_Access_approval-skyblue)****
 
 ### ****Security****
 
-* ****[Security Center](https://www.alibabacloud.com/product/security-center)****
+* ****[Security Center](https://www.alibabacloud.com/product/security-center) | ![Static Badge](https://img.shields.io/badge/Azure-Security-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Security_Hub-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Security_Command_Center-skyblue)****
 
 ### ****Monitoring****
 
-* ****[Application Real-Time Monitoring Service (ARMS)](https://www.alibabacloud.com/product/arms)****
+* ****[Application Real-Time Monitoring Service (ARMS)](https://www.alibabacloud.com/product/arms) | ![Static Badge](https://img.shields.io/badge/Azure-Monitor,_Anomaly_Detctor-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-CloudWatch-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Operations,_Network_Intelligence_Center-skyblue)****
 * **[CloudMonitor](https://www.alibabacloud.com/product/cloud-monitor?spm=a3c0i.11270126.5942891490.181.63005f93cr7YdL)**
 
 ### **Automation**
 
-* **[CloudOps Orchestration Service](https://www.alibabacloud.com/product/oos?spm=a3c0i.11270126.5942891490.182.63005f93cr7YdL)**
+* **[CloudOps Orchestration Service](https://www.alibabacloud.com/product/oos?spm=a3c0i.11270126.5942891490.182.63005f93cr7YdL) | ![Static Badge](https://img.shields.io/badge/Azure-Automation-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-OpsWorks-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Compute_Engine_Management-skyblue)**
 
 ### ****Cost optimization****
 
