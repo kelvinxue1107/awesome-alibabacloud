@@ -10,10 +10,10 @@
 # ******Product Indexing******
 
 * ******[Compute](#cloud-computing-services)******
-* ******[Storage](#alibaba-cloud-storage)******
+* ******[Storage](#storage)******
 * ******[Database](#database)******
 * ******[Analytics](#analytics)******
-* ******[ML and AI services](#ml-and-ai-services)******
+* ******[ML and AI services](#ml-and-ai)******
 * ******[Networking](#networking-&-content-delivery)******
 * ******[Containers](#containers)******
 * ******[Management and Security](#management-and-security)******
