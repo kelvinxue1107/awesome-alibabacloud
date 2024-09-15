@@ -70,7 +70,7 @@
 
 ### ******Archive storage******
 
-* ******[Object Storage Service (OSS)](https://www.alibabacloud.com/product/oss) ******
+* ******[Object Storage Service (OSS)](https://www.alibabacloud.com/product/oss)******
 
 ### ******File storage******
 
