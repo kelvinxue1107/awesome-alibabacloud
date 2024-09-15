@@ -11,16 +11,12 @@
 
 * ******[Compute](#cloud-computing-services)******
 * ******[Storage](#alibaba-cloud-storage)******
-* ******[Networking](#networking-and-cdn-services)******
-* ******[Security](#Security)******
-* ******[AI and ML](#AI-and-ML-services)******
-* ******[Middleware](#Middleware)******
-* ******[Database](#Database)******
-* ******[Analytics Computing](#Analytics-Computing)******
-* ******[Media Services](#Media-Services)******
-* ******[Serverless](#Serverless)******
-* ******[Migration and O&M Management](#Migration-and-O&M-Management)******
-* ******[Developer Tools](#Developer-Tools)******
+* ******[Database](#database)******
+* ******[Analytics](#analytics)******
+* ******[ML and AI services](#ml-and-ai-services)******
+* ******[Networking](#networking-&-content-delivery)******
+* ******[Containers](#containers)******
+* ******[Management and Security](#management-and-security)******
 
 # ******Cloud Computing Services******
 
@@ -63,6 +59,9 @@
 * ******[Super Computing Cluster (SCC)](https://www.alibabacloud.com/product/scc?spm=a3c0i.21202589.9413186770.10.2686c1190CNRWo)******
 * ******[Elastic High Performance Computing (E-HPC)](https://www.alibabacloud.com/product/ehpc?spm=a3c0i.21202589.9413186770.11.2686c1190CNRWo)******
 
+
+
+
 ## ******Storage******
 
 ### ******Object storage******
@@ -93,6 +92,9 @@
 ### ******Backup******
 
 * ******[Hybrid Backup Recovery (HBR)](https://www.alibabacloud.com/product/hybrid-backup-recovery) | ![Static Badge](https://img.shields.io/badge/Azure-Backup-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Backup-orange) | ![Static Badge](https://img.shields.io/badge/GCP-BackupAndDisasterRecovery-skyblue)******
+
+
+
 
 ## ******Database******
 
@@ -133,6 +135,9 @@
 
 * ****[Blockchain as a Service](https://www.alibabacloud.com/product/baas) | ![Static Badge](https://img.shields.io/badge/Azure-Blockchain_Service-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Managed_Blockchain-orange) | ![Static Badge](https://img.shields.io/badge/GCP-N/A-skyblue)****
 
+
+
+
 ## ******Analytics******
 
 ### ******Data warehouse******
@@ -170,6 +175,9 @@
 * ******[Alibaba Cloud Elasticsearch](https://www.alibabacloud.com/product/elasticsearch) | ![Static Badge](https://img.shields.io/badge/Azure-Cognitive_Search-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-CloudSearch,_OpenSearch_Service,_Kendra-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Search-skyblue)******
 
 ### ******Data Catalog******
+
+
+
 
 ## ******ML and AI******
 
@@ -237,6 +245,9 @@
 
 * ******[Server Load Balancer (SLB)](https://www.alibabacloud.com/product/server-load-balancer) | ![Static Badge](https://img.shields.io/badge/Azure-Application_Gateway,_Load_Balancer,_Traffic_Manager-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Elastic_Load_Balancing-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Load_Balancing-skyblue)******
 
+
+
+
 ## ******Containers******
 
 ### ******Managed containers******
@@ -248,6 +259,9 @@
 ### ******Container registration******
 
 * ******[Container Registry (ACR)](https://www.alibabacloud.com/product/container-registry).       | ![Static Badge](https://img.shields.io/badge/Azure-ACR-blue) | ![Static Badge](https://img.shields.io/badge/AWS-ECR-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ContainerRegistry-skyblue)******
+
+
+
 
 ## ****Management and Security****
 
