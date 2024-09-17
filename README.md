@@ -7,7 +7,7 @@
 
 *****Summarize the Alibaba cloud services as awesome list, also list the other ralevent cloud services from GCP, MSFT and AWS at the end on each row as badge for reference*****
 
-****HOW TO - Mapping Alibaba Clous services to repective service that running on top of Azure, AWS and GCP as ![Static Badge](https://img.shields.io/badge/Cloud_Platform-Service-white) listed in the end of each row. ****
+**HOW TO - Mapping Alibaba Clous services to repective service that running on top of Azure, AWS and GCP as ![Static Badge](https://img.shields.io/badge/Cloud_Platform-Service-white) listed in the end of each row.**
 
 # ********Product Indexing********
 
