@@ -5,7 +5,9 @@
 </p>
 <br/>
 
-*****Summarize the Alibaba cloud services as awesome list, also list the other ralevent cloud services from GCP, MSFT and AWS at the end on each row as badge for reference*****
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+**Summarize the Alibaba cloud services as awesome list, also list the other ralevent cloud services from GCP, MSFT and AWS at the end on each row as badge for reference**
 
 **HOW TO - Mapping Alibaba Clous services to repective service that running on top of Azure, AWS and GCP as ![Static Badge](https://img.shields.io/badge/Cloud_Platform-Service-white) listed in the end of each row.**
 
@@ -107,16 +109,16 @@
 ### ********NoSQL********
 
 * #### *********Key-Value*********
-  
+
   * ********[ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)| ![Static Badge](https://img.shields.io/badge/Azure-CosmosDB-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-DynamoDB-orange) | ![Static Badge](https://img.shields.io/badge/GCP-CloudBitTable-skyblue)********
 * #### *********Document*********
-  
+
   * ********[ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)| ![Static Badge](https://img.shields.io/badge/Azure-CosmosDB-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-DocumentDB-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Firestore-skyblue)********
 * #### *********Column Store*********
-  
+
   * ********[ApsaraDB for Cassandra](https://www.alibabacloud.com/product/cassandra)| ![Static Badge](https://img.shields.io/badge/Azure-CosmodDB-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Keyspaces-orange) | ![Static Badge](https://img.shields.io/badge/GCP-CloudBigTable-skyblue)********
 * #### *********Graph*********
-  
+
   * ********[Graph Database](]https://cn.aliyun.com/product/gdb?from_alibabacloud=&from_alibabacloud=)| ![Static Badge](https://img.shields.io/badge/Azure-N/A-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Neptune-orange) | ![Static Badge](https://img.shields.io/badge/GCP-N/A-skyblue)********
 
 ### ********Caching********
@@ -271,4 +273,3 @@
 * ****[CloudOps Orchestration Service](https://www.alibabacloud.com/product/oos?spm=a3c0i.11270126.5942891490.182.63005f93cr7YdL) | ![Static Badge](https://img.shields.io/badge/Azure-Automation-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-OpsWorks-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Compute_Engine_Management-skyblue)****
 
 ### ******Cost optimization******
-
