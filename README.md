@@ -26,7 +26,7 @@
 
 ### **********Virtual Machine**********
 
-* **********[Elastic Compute Service (ECS)](https://www.alibabacloud.com/product/ecs)                                                             | ![Static Badge](https://img.shields.io/badge/Azure-VM-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Compute_Engine-skyblue)**********
+* **********[Elastic Compute Service (ECS)](https://www.alibabacloud.com/product/ecs)                                                             | ![Static Badge](https://img.shields.io/badge/Azure-Virtual_Machines-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Kinesis_Data_Analytics-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Compute_Engine-skyblue)**********
 
 ### **********Spot virtual machine**********
 
@@ -36,7 +36,7 @@
 
 ### **********Serverless Computing**********
 
-* **********Function Compute 2.0 |  ![Static Badge](https://img.shields.io/badge/Azure-Functions-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Lambda-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Google_Cloud_Functions-skyblue)**********
+* **********Function Compute 2.0 |  ![Static Badge](https://img.shields.io/badge/Azure-Functions-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Lambda-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Functions-skyblue)**********
 
 ### **********Platform as a service**********
 
@@ -48,7 +48,7 @@
 
 ### **********Isolated servers**********
 
-* **********[Dedicated Host (DDH)](https://www.alibabacloud.com/product/dedicated-host) | ![Static Badge](https://img.shields.io/badge/Azure-Azure_Dedigated_Host-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-EC2_Dedigated_Hosts-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Sole_Tenant_Nodes-skyblue)**********
+* **********[Dedicated Host (DDH)](https://www.alibabacloud.com/product/dedicated-host) | ![Static Badge](https://img.shields.io/badge/Azure-Dedicated_Host-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-EC2_Dedicated_Hosts-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Sole_Tenant_Nodes-skyblue)**********
 
 ### **********On-premise/Edge**********
 
@@ -71,7 +71,7 @@
 
 ### **********Object storage**********
 
-* **********[Object Storage Service (OSS)](https://www.alibabacloud.com/product/oss) | ![Static Badge](https://img.shields.io/badge/Azure-Blob_Storage-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-S3-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Storage_Buckets-skyblue)**********
+* **********[Object Storage Service (OSS)](https://www.alibabacloud.com/product/oss) | ![Static Badge](https://img.shields.io/badge/Azure-Blob_Storage-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-S3-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Composer-skyblue)**********
 
 ### **********Archive storage**********
 
@@ -83,20 +83,20 @@
 
 ### **********Block storage**********
 
-* **********[Elastic Block Storage (EBS)](https://www.alibabacloud.com/product/disk) | ![Static Badge](https://img.shields.io/badge/Azure-Disk_Storage-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-EBS-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Persistent_Disk-skyblue)**********
+* **********[Elastic Block Storage (EBS)](https://www.alibabacloud.com/product/disk) | ![Static Badge](https://img.shields.io/badge/Azure-Managed_Disks-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-EBS-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Persistent_Disk-skyblue)**********
 
 ### **********Hybrid storage**********
 
-* **********[Hybrid Cloud Storage](https://www.alibabacloud.com/product/storage-array)| ![Static Badge](https://img.shields.io/badge/Azure-StorSimple-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Storage_Gateway-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Storage_Transfer_Service-skyblue)**********
+* **********[Hybrid Cloud Storage](https://www.alibabacloud.com/product/storage-array)| ![Static Badge](https://img.shields.io/badge/Azure-Azure_Stack_Edge-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Storage_Gateway-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Storage_Transfer_Service-skyblue)**********
 * **********[Cloud Storage Gateway](https://www.alibabacloud.com/product/cloud-storage-gateway)**********
 
 ### **********Edge/offline storage**********
 
-* **********[Data Transport](https://www.alibabacloud.com/product/data-transport) | ![Static Badge](https://img.shields.io/badge/Azure-DataBox-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Snowball-orange) | ![Static Badge](https://img.shields.io/badge/GCP-TransferAppliance-skyblue)**********
+* **********[Data Transport](https://www.alibabacloud.com/product/data-transport) | ![Static Badge](https://img.shields.io/badge/Azure-Data_Box-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Snowball-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Transfer_Appliance-skyblue)**********
 
 ### **********Backup**********
 
-* **********[Hybrid Backup Recovery (HBR)](https://www.alibabacloud.com/product/hybrid-backup-recovery) | ![Static Badge](https://img.shields.io/badge/Azure-Backup-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Backup-orange) | ![Static Badge](https://img.shields.io/badge/GCP-BackupAndDisasterRecovery-skyblue)**********
+* **********[Hybrid Backup Recovery (HBR)](https://www.alibabacloud.com/product/hybrid-backup-recovery) | ![Static Badge](https://img.shields.io/badge/Azure-Backup-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Backup-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Backup_and_DR-skyblue)**********
 
 ## **********Database**********
 
@@ -104,7 +104,7 @@
 
 * **********[PolarDB (MySQL/PostgreSQL)](https://www.alibabacloud.com/product/polardb)| ![Static Badge](https://img.shields.io/badge/Azure-SQL-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-RDS-orange) | ![Static Badge](https://img.shields.io/badge/GCP-CloudSQL-skyblue)**********
 * **********[ApsaraDB RDS for MySQL](https://www.alibabacloud.com/product/apsaradb-for-rds-mysql)**********
-* **********[ApsaraDB RDS for SQL Server](https://www.alibabacloud.com/product/apsaradb-for-rds-sql-server)| ![Static Badge](https://img.shields.io/badge/Azure-SQLDatabase-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Aurora-orange) | ![Static Badge](https://img.shields.io/badge/GCP-CloudSpanner-skyblue)**********
+* **********[ApsaraDB RDS for SQL Server](https://www.alibabacloud.com/product/apsaradb-for-rds-sql-server)| ![Static Badge](https://img.shields.io/badge/Azure-SQL_Database-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-RDS_for_SQL_Server-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_SQL_for_SQL_Server-skyblue)**********
 * **********[ApsaraDB RDS for PostgreSQL](https://www.alibabacloud.com/product/apsaradb-for-rds-postgresql)**********
 * **********[ApsaraDB RDS for MariaDB TX](https://www.alibabacloud.com/products/apsaradb-for-rds-mariadb)**********
 * **********[Distributed Relational Database Service (DRDS)](https://www.alibabacloud.com/product/drds)**********
@@ -114,64 +114,64 @@
 
 * #### ***********Key-Value***********
   
-  * **********[ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)| ![Static Badge](https://img.shields.io/badge/Azure-CosmosDB-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-DynamoDB-orange) | ![Static Badge](https://img.shields.io/badge/GCP-CloudBitTable-skyblue)**********
+  * **********[Table Store](https://www.alibabacloud.com/product/table-store)| ![Static Badge](https://img.shields.io/badge/Azure-Cosmos_DB-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-DynamoDB-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Bigtable-skyblue)**********
 * #### ***********Document***********
   
-  * **********[ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)| ![Static Badge](https://img.shields.io/badge/Azure-CosmosDB-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-DocumentDB-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Firestore-skyblue)**********
+  * **********[ApsaraDB for MongoDB](https://www.alibabacloud.com/product/apsaradb-for-mongodb)| ![Static Badge](https://img.shields.io/badge/Azure-Cosmos_DB-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-DocumentDB-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Firestore-skyblue)**********
 * #### ***********Column Store***********
   
-  * **********[ApsaraDB for Cassandra](https://www.alibabacloud.com/product/cassandra)| ![Static Badge](https://img.shields.io/badge/Azure-CosmodDB-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Keyspaces-orange) | ![Static Badge](https://img.shields.io/badge/GCP-CloudBigTable-skyblue)**********
+  * **********[ApsaraDB for Cassandra](https://www.alibabacloud.com/product/cassandra)| ![Static Badge](https://img.shields.io/badge/Azure-Cosmos_DB-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Keyspaces-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Bigtable-skyblue)**********
 * #### ***********Graph***********
   
-  * **********[Graph Database](]https://cn.aliyun.com/product/gdb?from_alibabacloud=&from_alibabacloud=)| ![Static Badge](https://img.shields.io/badge/Azure-N/A-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Neptune-orange) | ![Static Badge](https://img.shields.io/badge/GCP-N/A-skyblue)**********
+  * **********[Graph Database](]https://cn.aliyun.com/product/gdb?from_alibabacloud=&from_alibabacloud=)| ![Static Badge](https://img.shields.io/badge/Azure-Cosmos_DB-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Neptune-orange) | ![Static Badge](https://img.shields.io/badge/GCP-N/A-skyblue)**********
 
 ### **********Caching**********
 
-* **********[ApsaraDB for Redis](https://www.alibabacloud.com/product/apsaradb-for-redis) | ![Static Badge](https://img.shields.io/badge/Azure-Cache4Redis-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-ElastiCache-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Memorystore-skyblue)**********
+* **********[ApsaraDB for Redis](https://www.alibabacloud.com/product/apsaradb-for-redis) | ![Static Badge](https://img.shields.io/badge/Azure-Cache_for_Redis-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-ElastiCache-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Memorystore-skyblue)**********
 
 ### **********Time Series DB**********
 
-* **********[Time Series Database (TSDB)](https://www.alibabacloud.com/product/hitsdb)| ![Static Badge](https://img.shields.io/badge/Azure-TimeSeriesInsights-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Timestream-orange) | ![Static Badge](https://img.shields.io/badge/GCP-CloudBigTable-skyblue)**********
+* **********[Time Series Database (TSDB)](https://www.alibabacloud.com/product/hitsdb)| ![Static Badge](https://img.shields.io/badge/Azure-HDInsight-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Timestream-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Bigtable-skyblue)**********
 
 ### **********Blockchain**********
 
-* ********[Blockchain as a Service](https://www.alibabacloud.com/product/baas) | ![Static Badge](https://img.shields.io/badge/Azure-Blockchain_Service-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Managed_Blockchain-orange) | ![Static Badge](https://img.shields.io/badge/GCP-N/A-skyblue)********
+* ********[Blockchain as a Service](https://www.alibabacloud.com/product/baas) | ![Static Badge](https://img.shields.io/badge/Azure-Confidential_Ledger-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Managed_Blockchain-orange) | ![Static Badge](https://img.shields.io/badge/GCP-N/A-skyblue)********
 
 ## **********Analytics**********
 
 ### **********Data warehouse**********
 
-* **********[Hologres](https://www.alibabacloud.com/product/hologres) | ![Static Badge](https://img.shields.io/badge/Azure-Synapse_Analytics-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-RedShift-orange) | ![Static Badge](https://img.shields.io/badge/GCP-BigQuery-skyblue)**********
+* **********[Hologres](https://www.alibabacloud.com/product/hologres) | ![Static Badge](https://img.shields.io/badge/Azure-Synapse_Analytics-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Redshift-orange) | ![Static Badge](https://img.shields.io/badge/GCP-BigQuery-skyblue)**********
 * **********[MaxCompute](https://www.alibabacloud.com/product/maxcompute)**********
 
 ### **********Big data platform**********
 
-* **********[E-MapReduce](https://www.alibabacloud.com/product/emapreduce) | ![Static Badge](https://img.shields.io/badge/Azure-Data_Explorer-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-EMR-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Dataproc-skyblue)**********
+* **********[E-MapReduce](https://www.alibabacloud.com/product/emapreduce) | ![Static Badge](https://img.shields.io/badge/Azure-HDInsight-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-EMR-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Dataproc-skyblue)**********
 
 ### **********Business analytics**********
 
-* **********[Quick BI](https://www.alibabacloud.com/product/quickbi) | ![Static Badge](https://img.shields.io/badge/Azure-Power_BI_Embedded-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Quicksight-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Looker-skyblue)**********
+* **********[Quick BI](https://www.alibabacloud.com/product/quickbi) | ![Static Badge](https://img.shields.io/badge/Azure-Power_BI-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-QuickSight-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Looker-skyblue)**********
 
 ### **********Real-time analytics**********
 
-* **********[Realtime Compute for Apache Flink](https://www.alibabacloud.com/product/realtime-compute) | ![Static Badge](https://img.shields.io/badge/Azure-Stream_Analytics,_Event_Hubs-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ComputeEngine-skyblue)**********
+* **********[Realtime Compute for Apache Flink](https://www.alibabacloud.com/product/realtime-compute) | ![Static Badge](https://img.shields.io/badge/Azure-Stream_Analytics-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Kinesis_Data_Analytics-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Dataflow-skyblue)**********
 
 ### **********ETL**********
 
-* **********[Data Integration](https://www.alibabacloud.com/product/data-integration)| ![Static Badge](https://img.shields.io/badge/Azure-Data_Factory-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Glue,_Kinesis_Data_Firehose,_SageMaker,_Data_Wrangler-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ComputeEngine-skyblue)**********
+* **********[Data Integration](https://www.alibabacloud.com/product/data-integration)| ![Static Badge](https://img.shields.io/badge/Azure-Data_Factory-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Glue-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Dataflow-skyblue)**********
 
 ### **********Workflow orchestration**********
 
-* **********[Dataphin](https://www.alibabacloud.com/product/dataphin)| ![Static Badge](https://img.shields.io/badge/Azure-Data_Factory-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Data_pipeline-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Storage-skyblue)**********
+* **********[Dataphin](https://www.alibabacloud.com/product/dataphin)| ![Static Badge](https://img.shields.io/badge/Azure-Data_Factory-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Step_Functions-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Composer-skyblue)**********
 * **********[Dataworks](https://www.alibabacloud.com/product/ide)**********
 
 ### **********Data lake creation**********
 
-* **********[Data Lake Analytics](https://www.alibabacloud.com/product/data-lake-analytics) | ![Static Badge](https://img.shields.io/badge/Azure-Data_Share-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Lake_Formation-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Search-skyblue)**********
+* **********[Data Lake Analytics](https://www.alibabacloud.com/product/data-lake-analytics) | ![Static Badge](https://img.shields.io/badge/Azure-Data_Lake_Storage-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Lake_Formation-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Dataproc-skyblue)**********
 
 ### **********Managed search**********
 
-* **********[Alibaba Cloud Elasticsearch](https://www.alibabacloud.com/product/elasticsearch) | ![Static Badge](https://img.shields.io/badge/Azure-Cognitive_Search-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-CloudSearch,_OpenSearch_Service,_Kendra-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Search-skyblue)**********
+* **********[Alibaba Cloud Elasticsearch](https://www.alibabacloud.com/product/elasticsearch) | ![Static Badge](https://img.shields.io/badge/Azure-AI_Search-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-OpenSearch_Service-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Vertex_AI_Search-skyblue)**********
 
 ### **********Data Catalog**********
 
@@ -187,11 +187,11 @@
 
 ### **********Auto ML**********
 
-* ********[Platform for AI (PAI)](https://www.alibabacloud.com/product/machine-learning?spm=a3c0i.11270126.5942891490.129.63005f93cr7YdL)  | ![Static Badge](https://img.shields.io/badge/Azure-Machine_Learning_Studio,_Automated_ML-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-SageMaker-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Vertex_AI_Workbench-skyblue)********
+* ********[Platform for AI (PAI)](https://www.alibabacloud.com/product/machine-learning?spm=a3c0i.11270126.5942891490.129.63005f93cr7YdL)  | ![Static Badge](https://img.shields.io/badge/Azure-Machine_Learning-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-SageMaker-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Vertex_AI-skyblue)********
 
 ### **********Natural Language Processing AI**********
 
-* ********[Beebot](https://www.alibabacloud.com/product/bot)  | ![Static Badge](https://img.shields.io/badge/Azure-Text_Analytics-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Comprehend-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Natural_Language_AI-skyblue)********
+* ********[Beebot](https://www.alibabacloud.com/product/bot)  | ![Static Badge](https://img.shields.io/badge/Azure-Language_Service-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Comprehend-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Natural_Language_AI-skyblue)********
 
 ### **********Recommendation AI**********
 
@@ -201,19 +201,19 @@
 
 ### **********Computer Vision**********
 
-* ********[Content Moderation](https://www.alibabacloud.com/product/content-moderation)  | ![Static Badge](https://img.shields.io/badge/Azure-Cognitive_Services_for_Vision-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Rekognition,_Panorama,_Lookout_for_Vision-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Vision_AI-skyblue)********
+* ********[Content Moderation](https://www.alibabacloud.com/product/content-moderation)  | ![Static Badge](https://img.shields.io/badge/Azure-AI_Vision-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Rekognition-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Vision_AI-skyblue)********
 
 ### **********Speech to text**********
 
-* ********[Intellgent Speech Interaction](https://www.alibabacloud.com/product/intelligent-speech-interaction)  | ![Static Badge](https://img.shields.io/badge/Azure-Cognitive_Services_for_Speech_to_Text-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Transcribe-orange) | ![Static Badge](https://img.shields.io/badge/GCP-SpeechToText-skyblue)********
+* ********[Intellgent Speech Interaction](https://www.alibabacloud.com/product/intelligent-speech-interaction)  | ![Static Badge](https://img.shields.io/badge/Azure-Speech_Service-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Transcribe-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Speech_to_Text-skyblue)********
 
 ### **********Text to speech**********
 
-* ********[Intellgent Speech Interaction](https://www.alibabacloud.com/product/intelligent-speech-interaction) | ![Static Badge](https://img.shields.io/badge/Azure-Cognitive_Services_for_Text_to_Speech-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Polly-orange) | ![Static Badge](https://img.shields.io/badge/GCP-TextToSpeech-skyblue)********
+* ********[Intellgent Speech Interaction](https://www.alibabacloud.com/product/intelligent-speech-interaction) | ![Static Badge](https://img.shields.io/badge/Azure-Speech_Service-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Polly-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Text_to_Speech-skyblue)********
 
 ### **********Translation AI**********
 
-* ********[Machine Translation](https://www.alibabacloud.com/product/machine-translation) | ![Static Badge](https://img.shields.io/badge/Azure-Cognitive_Services_for_Speech_Translation,_Translator-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Translate-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Translation_AI-skyblue)********
+* ********[Machine Translation](https://www.alibabacloud.com/product/machine-translation) | ![Static Badge](https://img.shields.io/badge/Azure-Translator-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Translate-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Translation_AI-skyblue)********
 
 ### **********Video Intelligence**********
 
@@ -225,11 +225,11 @@
 
 ### **********Content delivery network**********
 
-* **********[CDN](https://www.alibabacloud.com/product/cdn) | ![Static Badge](https://img.shields.io/badge/Azure-Content_Delivery_Network-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-CloudFront-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_CDN_and_Media_CDN-skyblue)**********
+* **********[CDN](https://www.alibabacloud.com/product/cdn) | ![Static Badge](https://img.shields.io/badge/Azure-CDN-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-CloudFront-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_CDN-skyblue)**********
 
 ### **********Application Programming Interface Management**********
 
-* **********[API Gateway](https://www.alibabacloud.com/product/api-gateway) | ![Static Badge](https://img.shields.io/badge/Azure-API_Apps,_API_Management-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-API_Gateway-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Apigee_API_Management-skyblue)**********
+* **********[API Gateway](https://www.alibabacloud.com/product/api-gateway) | ![Static Badge](https://img.shields.io/badge/Azure-API_Management-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-API_Gateway-orange) | ![Static Badge](https://img.shields.io/badge/GCP-API_Gateway-skyblue)**********
 
 ### **********Domain Name System Related**********
 
@@ -239,42 +239,42 @@
 
 ### **********Load balancing**********
 
-* **********[Server Load Balancer (SLB)](https://www.alibabacloud.com/product/server-load-balancer) | ![Static Badge](https://img.shields.io/badge/Azure-Application_Gateway,_Load_Balancer,_Traffic_Manager-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Elastic_Load_Balancing-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Load_Balancing-skyblue)**********
+* **********[Server Load Balancer (SLB)](https://www.alibabacloud.com/product/server-load-balancer) | ![Static Badge](https://img.shields.io/badge/Azure-Load_Balancer-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Elastic_Load_Balancing-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Load_Balancing-skyblue)**********
 
 ## **********Containers**********
 
 ### **********Managed containers**********
 
 * **********[Container Service for Kubernetes (ACK)](https://www.alibabacloud.com/product/kubernetes) | ![Static Badge](https://img.shields.io/badge/Azure-AKS-blue) | ![Static Badge](https://img.shields.io/badge/AWS-EKS-orange) | ![Static Badge](https://img.shields.io/badge/GCP-GKE-skyblue)**********
-* **********[Elastic Container Instance (ECI)](https://www.alibabacloud.com/product/elastic-container-instance)              | ![Static Badge](https://img.shields.io/badge/Azure-ACR-blue) | ![Static Badge](https://img.shields.io/badge/AWS-ECR-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ContainerRegistry-skyblue)**********
+* **********[Elastic Container Instance (ECI)](https://www.alibabacloud.com/product/elastic-container-instance)              | ![Static Badge](https://img.shields.io/badge/Azure-Container_Instances-blue) | ![Static Badge](https://img.shields.io/badge/AWS-Fargate-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Run-skyblue)**********
 * **********[Alibaba Cloud Service Mesh (ASM)](https://www.alibabacloud.com/product/servicemesh)**********
 
 ### **********Container registration**********
 
-* **********[Container Registry (ACR)](https://www.alibabacloud.com/product/container-registry).       | ![Static Badge](https://img.shields.io/badge/Azure-ACR-blue) | ![Static Badge](https://img.shields.io/badge/AWS-ECR-orange) | ![Static Badge](https://img.shields.io/badge/GCP-ContainerRegistry-skyblue)**********
+* **********[Container Registry (ACR)](https://www.alibabacloud.com/product/container-registry).       | ![Static Badge](https://img.shields.io/badge/Azure-ACR-blue) | ![Static Badge](https://img.shields.io/badge/AWS-ECR-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Artifact_Registry-skyblue)**********
 
 ## ********Management and Security********
 
 ### ********Access management********
 
-* ********[Resource Access Management (RAM)](https://www.alibabacloud.com/product/ram) | ![Static Badge](https://img.shields.io/badge/Azure-IAM-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Entra_ID-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Identity-skyblue)********
+* ********[Resource Access Management (RAM)](https://www.alibabacloud.com/product/ram) | ![Static Badge](https://img.shields.io/badge/Azure-Entra_ID-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-IAM-orange) | ![Static Badge](https://img.shields.io/badge/GCP-IAM-skyblue)********
 
 ### ********Activity tracking********
 
-* ********[ActionTrail](https://www.alibabacloud.com/product/actiontrail) | ![Static Badge](https://img.shields.io/badge/Azure-Monitor_Activity_Log-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-CloudTrail-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Access_Transparency_and_Access_approval-skyblue)********
+* ********[ActionTrail](https://www.alibabacloud.com/product/actiontrail) | ![Static Badge](https://img.shields.io/badge/Azure-Azure_Monitor-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-CloudTrail-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Audit_Logs-skyblue)********
 
 ### ********Security********
 
-* ********[Security Center](https://www.alibabacloud.com/product/security-center) | ![Static Badge](https://img.shields.io/badge/Azure-Security-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Security_Hub-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Security_Command_Center-skyblue)********
+* ********[Security Center](https://www.alibabacloud.com/product/security-center) | ![Static Badge](https://img.shields.io/badge/Azure-Defender_for_Cloud-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Security_Hub-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Security_Command_Center-skyblue)********
 
 ### ********Monitoring********
 
-* ********[Application Real-Time Monitoring Service (ARMS)](https://www.alibabacloud.com/product/arms) | ![Static Badge](https://img.shields.io/badge/Azure-Monitor,_Anomaly_Detctor-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-CloudWatch-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Operations,_Network_Intelligence_Center-skyblue)********
+* ********[Application Real-Time Monitoring Service (ARMS)](https://www.alibabacloud.com/product/arms) | ![Static Badge](https://img.shields.io/badge/Azure-Azure_Monitor-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-CloudWatch-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Cloud_Monitoring-skyblue)********
 * ******[CloudMonitor](https://www.alibabacloud.com/product/cloud-monitor?spm=a3c0i.11270126.5942891490.181.63005f93cr7YdL)******
 
 ### ******Automation******
 
-* ******[CloudOps Orchestration Service](https://www.alibabacloud.com/product/oos?spm=a3c0i.11270126.5942891490.182.63005f93cr7YdL) | ![Static Badge](https://img.shields.io/badge/Azure-Automation-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-OpsWorks-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Compute_Engine_Management-skyblue)******
+* ******[CloudOps Orchestration Service](https://www.alibabacloud.com/product/oos?spm=a3c0i.11270126.5942891490.182.63005f93cr7YdL) | ![Static Badge](https://img.shields.io/badge/Azure-Azure_Automation-blue)  | ![Static Badge](https://img.shields.io/badge/AWS-Systems_Manager-orange) | ![Static Badge](https://img.shields.io/badge/GCP-Deployment_Manager-skyblue)******
 
 ### ********Cost optimization********
 
